@@ -17,6 +17,7 @@
   </dependencies>
   <build>
     <finalName>web-application war file</finalName>
+    
     <plugins>
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
@@ -27,5 +28,6 @@
       </configuration>
     </plugin>
     </plugins>
+    
   </build>
 </project>
